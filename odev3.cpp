@@ -66,3 +66,11 @@ int main()
 
    infile.close();
 } 
+
+
+
+//http://www.cplusplus.com/
+//https://www.onlinegdb.com/online_c++_compiler#
+//https://www.daniweb.com/programming/software-development/threads/19389/c-grade-program
+//udemy kursları, youtube çalma listeleri
+//onlinegdb.com
